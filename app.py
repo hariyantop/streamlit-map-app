@@ -2,7 +2,7 @@ import streamlit as st
 import plotly.graph_objects as go
 
 st.set_page_config(page_title="Simple Map App", layout="wide")
-st.title("?? Sample Locations Map")
+st.title("📍 Sample Locations Map")
 
 locations = [
     {"name": "Sydney", "lat": -33.8688, "lon": 151.2093},
